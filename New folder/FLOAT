@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <STYLE>
+            img#flowerRIGHT{
+            FLOAT:right
+            }
+            IMG#FLOWERLEFT{
+                FLOAT:LEFT
+            }
+            </STYLE>
+            </HEAD>
+            <BODY>
+                <H2>FLOAT RIGHT</H2>
+                <P>In this example,the image will float to the right in the paragraph,and the text in the paragraph will wrap around the image</P>
+                <p> <img id="flowerright" src="flower.jpg" alt="tree"
+                style="width:100px:;height:100px;">
+                <img id="flowerleft" src="flower.jpg" alt="tree" style="width:100px:;height:100px;">
+                THIS IS A DUMMY CONTENT USED TO UNDERSTAND FLOAT PROPERLY
+                </p>
+            </BODY>
+            </HTML>
